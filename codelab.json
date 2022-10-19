@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-10-19T15:30:49+02:00",
+  "id": "arranquegrub2",
+  "duration": 0,
+  "title": "Protección del arranque de Linux (Grub2)",
+  "summary": "Protección del arranque de Linux",
+  "source": "README.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "arranquegrub2"
+}
